@@ -95,7 +95,7 @@
         echo "<b>E-pasts:</b>{$_POST['emailnews']}<br/>";
     }
     ?>
-    <h2>Ielogoties</h2>
+    <h2>Reģistrēties</h2>
     <div class="form-group">
         <form action="forma" method="post">
         <div class="form-group">
