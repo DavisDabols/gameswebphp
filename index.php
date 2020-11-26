@@ -23,7 +23,7 @@
         			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 		<a class="dropdown-item" href="libs/karte.html">Kontakti</a>
                 		<div class="dropdown-divider"></div>
-                		<a class="dropdown-item" href="libs/forma.html">Forma</a>
+                		<a class="dropdown-item" href="libs/forma.php">Forma</a>
             		</div>
       			</li>
       			<li class="nav-item">
