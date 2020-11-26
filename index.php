@@ -7,10 +7,10 @@
 </head>
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id = "nav-bar">
-  		<a class="navbar-brand" href="#">Video Spēles</a>
+  		<a class="navbar-brand" href="">Video Spēles</a>
     		<ul class="navbar-nav mr-auto">
       			<li class="nav-item active">
-        			<a class="nav-link" href="#">Sākums<span class="sr-only">(current)</span></a>
+        			<a class="nav-link" href="">Sākums<span class="sr-only">(current)</span></a>
       			</li>
       			<li class="nav-item">
         			<a class="nav-link" href="https://store.steampowered.com/">Steam</a>
